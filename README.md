@@ -1,4 +1,4 @@
-# DIO.-Criaando-Uma-P-gina-Web
+# DIO.Criando Uma Pgina Web
 A ideia deste Desafio de Projeto é elaborar um website, utilizando uma estrutura bem básica, utilizando tags aprendidas durante as aulas práticas
 
 http://127.0.0.1:5500/index.html
